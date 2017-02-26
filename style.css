@@ -1,0 +1,25 @@
+.text-center{
+	text-align: center;
+
+}
+
+
+.btn-pink{
+	background-color: black;
+}
+.btn-round{
+	border-radius: 30px;
+}
+
+.bg-image{
+	background-image: url('https://static1.squarespace.com/static/51c748abe4b0c275d0aa86bf/56141f2be4b0a4afc2d17505/56f42c51b09f95c751a809ef/1469211491383/?format=1000w');
+	padding-top: 360px;
+	padding-bottom: 200px;
+	background-size: cover;
+}
+
+
+
+.text-white{
+	color: white;
+}
